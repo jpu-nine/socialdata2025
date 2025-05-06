@@ -34,9 +34,9 @@ document.addEventListener('DOMContentLoaded', function() {
       tocList.appendChild(listItem);
   
       heading.style.cursor = 'pointer';
-      heading.style.transition = 'background-color 0.3s ease-in-out'; // Add a smooth transition
+      heading.style.transition = 'background-color 0.3s ease-in-out';
       heading.addEventListener('mouseenter', function() {
-        this.style.backgroundColor = '#e0f7fa'; // A light cyan background
+        this.style.backgroundColor = '#e0f7fa';
       });
       heading.addEventListener('mouseleave', function() {
         this.style.backgroundColor = '';

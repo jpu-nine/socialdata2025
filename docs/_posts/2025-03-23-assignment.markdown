@@ -75,6 +75,7 @@ The chart illustrates the distribution of weapon types employed in the reported 
 - Less frequently utilized weapon types, such as Incendiary and Melee weapons, constitute only minor proportions of the total.
 - The “Other” category represents a negligible fraction of the attacks.
 ![Top Weapon Types]({{ site.baseurl }}/assets/images/top_weapon_types.png)
+
 ### Top Weapon Sub-types
 The chart presents a categorical breakdown of weapon sub-types and their corresponding frequencies of use in reported attacks. The x-axis represents the number of attacks, while the y-axis enumerates specific weapon sub-types. The bars are arranged horizontally, allowing for a comparative assessment of the prevalence of each sub-type.
 
@@ -83,6 +84,7 @@ The chart presents a categorical breakdown of weapon sub-types and their corresp
 - "Projectiles (rockets, mortars, RPGs, etc.)" and "Vehicle" also exhibit relatively high frequencies, with 12,031 and 10,849 attacks, respectively.
 - The remaining weapon sub-types, including "Other Explosive Type," "Handgun," "Grenade," and others, show a progressive decline in frequency of use.
 ![Top Weapon Types]({{ site.baseurl }}/assets/images/top_weapon_subtypes.png)
+
 ### Word Cloud of Weapon Sub-types
 The image presents a word cloud visualization displaying various weapon sub-types. The size of each word is proportional to its frequency of occurrence within the dataset. This visualization provides a qualitative overview of the most frequently mentioned weapon sub-types.
 
@@ -90,6 +92,7 @@ The image presents a word cloud visualization displaying various weapon sub-type
 - Additional observations include the presence of terms like "vehicle," "projectile," and "grenade," indicating their relevance within the dataset.
 - It is important to note that the word cloud does not contain "Unknown" weapon types, as these were excluded from the analysis. This exclusion allows for a clearer focus on the distribution of known weapon sub-types.
 ![Top Weapon Types]({{ site.baseurl }}/assets/images/word_cloud_of_weapon_subtypes.png)
+
 ### Weapon Types Over Time
 The dynamic bar chart illustrating how the usage of different weapon types varies over time. Year 1993 is filtered out, because it has no data.
 
@@ -98,6 +101,7 @@ The dynamic bar chart illustrating how the usage of different weapon types varie
 
 A notable trend observed throughout the years is the prevalence of Explosives, which consistently shows a high number of incidents, making it the most frequently used weapon type. Firearms typically follow as the second most common, while Incendiary weapons and, to a lesser extent, Melee weapons also appear with some regularity. Other weapon types such as Chemical, Sabotage Equipment, Fake Weapons, Radiological, Biological, and Other tend to be used much less frequently across the time period represented in the data.
 <iframe src="assets/html/weapon_types_over_time.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 ### Top Perpetrator Groups Over Time
 
 This graph illustrates how the number of attacks attributed to the top 10 perpetrator groups has changed across different years. Unknown group is skipped to increase clarity.
@@ -108,6 +112,7 @@ This graph illustrates how the number of attacks attributed to the top 10 perpet
 
 The graph shows how the activity of different perpetrator groups has evolved over time. For example, you can observe the rise and fall of attacks by groups like the Irish Republican Army (IRA) and the Kurdistan Workers' Party (PKK) over the decades. Additionally, the graph highlights the emergence and surge in activity of groups like ISIL in more recent years. The Taliban, however, shows a noticeable presence throughout the entire period with varying levels of activity.
 <iframe src="assets/html/top_groups_over_time.html" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 # Conclusion
 Conclusion
 
