@@ -18,7 +18,7 @@ The trend remains fairly consistent throughout the 1990s, but in the months lead
 
 Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a year that aligns with the height of ISIS activity and unrest in the Middle East. After 2017, the frequency of attacks begins to decline again, suggesting a potential de-escalation or success in counterterrorism efforts in some regions.
 
-![Attacksc per day](/assets/Calendar_Plot_attacks_per_day.png)
+![Attacks per day](/assets/Calendar_Plot_attacks_per_day.png)
 
 Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
 
