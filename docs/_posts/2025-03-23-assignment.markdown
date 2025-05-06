@@ -18,7 +18,7 @@ The trend remains fairly consistent throughout the 1990s, but in the months lead
 
 Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a year that aligns with the height of ISIS activity and unrest in the Middle East. After 2017, the frequency of attacks begins to decline again, suggesting a potential de-escalation or success in counterterrorism efforts in some regions.
 
-![Attacks per day](/assets/Calendar_Plot_attacks_per_day.png)
+![Attacks per day]({{ site.baseurl }}/assets/images/Calendar_Plot_attacks_per_day.png)
 
 Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
 
@@ -34,7 +34,7 @@ In addition to these persistent hotspots, the heatmap reveals smaller, time-boun
 ### Attack types and successful rate
 Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
 
-![Attack types and successful rate](/assets/Attack_types_and_success_rate.png)
+![Attack types and successful rate]({{ site.baseurl }}/assets/images/Attack_types_and_success_rate.png)
 
 ### Regions involved
 This set of plots captures both the temporal and regional heterogeneity of terrorism globally. It reveals how terrorism has shifted in focus over time, with some regions becoming more volatile in recent decades. The peak year trends also suggest links to major geopolitical shifts, civil conflicts, and insurgent activities.
@@ -51,12 +51,13 @@ This set of plots captures both the temporal and regional heterogeneity of terro
 
 6. Central America & Caribbean, despite having moments of activity, never reach the same peaks as other regions, indicating more localized or less frequent terrorist incidents.
 
-![Regions involved](/assets/attacks_per_region.png)
+![Regions involved]({{ site.baseurl }}/assets/images/attacks_per_region.png)
 
 ## Victim + casualties and consequences
 Harry
 ## Weapon + perpetrator
-### Top 20 Terrorist Groups
+### Top Terrorist Groups
+![Top Terrorist Groups]({{ site.baseurl }}/assets/images/top_terrorist_groups.png)
 ### Top Weapon Types
 ### Top 20 Weapon Sub-types
 ### Word Cloud of Weapon Sub-types
