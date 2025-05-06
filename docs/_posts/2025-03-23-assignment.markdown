@@ -31,10 +31,10 @@ In addition to these persistent hotspots, the heatmap reveals smaller, time-boun
 
 <iframe src="assets/html/heatmap_globalterrorism.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-### Attack types adn successful rate
+### Attack types and successful rate
 Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
 
-![Attack types adn successful rate](/assets/Attack_types_and_success_rate.png)
+![Attack types and successful rate](/assets/Attack_types_and_success_rate.png)
 
 ### Regions involved
 This set of plots captures both the temporal and regional heterogeneity of terrorism globally. It reveals how terrorism has shifted in focus over time, with some regions becoming more volatile in recent decades. The peak year trends also suggest links to major geopolitical shifts, civil conflicts, and insurgent activities.
