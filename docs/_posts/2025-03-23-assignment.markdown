@@ -11,7 +11,7 @@ Introduction
 
 # Analysis
 ## Incident + attack
-# Attacks per day
+### Attacks per day
 This calendar visualization provides a clear, high-level view of the evolution in the frequency of terrorist attacks over time. In the early 1970s, the dataset shows relatively low daily attack counts, suggesting that terrorism was less frequent or less systematically recorded during that period. Moving into the 1980s, occasional spikes begin to appear, indicating an uptick in both the occurrence and visibility of attacks.
 
 The trend remains fairly consistent throughout the 1990s, but in the months leading up to September 11, 2001, there's a noticeable increase in daily incidents. Interestingly, following the 9/11 attacks, there is a sharp drop in the frequency of attacks, which persists until around 2006–2007. This period of reduced activity may reflect increased global counterterrorism efforts or shifts in reporting.
@@ -22,7 +22,7 @@ Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a
 
 Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
 
-# Heatmap with time series
+### Heatmap with time series
 This heatmap provides a dynamic visualization of the geographic distribution of terrorist attacks over time. One of the most striking patterns is the apparent underreporting or lack of data in the first two decades of the dataset—particularly in regions like Central Africa. Given that this region later emerges as one of the most active in terms of attacks, the early absence likely reflects data limitations rather than a true lack of activity.
 
 Over the years, the intensity and location of attack concentrations fluctuate, but several regions consistently appear as hotspots. These include parts of Europe, the Middle East, a broad belt stretching across Central Africa (from west to east), Southeast Africa, the northern edge of South America, and a swath of South Asia spanning from Afghanistan to Malaysia—including the Philippines.
@@ -31,12 +31,12 @@ In addition to these persistent hotspots, the heatmap reveals smaller, time-boun
 
 <iframe src="assets/html/heatmap_globalterrorism.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-# Attack types adn successful rate
+### Attack types adn successful rate
 Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
 
 ![Attack types adn successful rate](/assets/Attack_types_and_success_rate.png)
 
-# Regions involved
+### Regions involved
 This set of plots captures both the temporal and regional heterogeneity of terrorism globally. It reveals how terrorism has shifted in focus over time, with some regions becoming more volatile in recent decades. The peak year trends also suggest links to major geopolitical shifts, civil conflicts, and insurgent activities.
 
 1. Middle East & North Africa stands out with the highest peak of attacks, particularly during the early 2010s. The intense yellow tone in this plot highlights that the region experienced the most concentrated period of violence globally, peaking around 2014–2015.
