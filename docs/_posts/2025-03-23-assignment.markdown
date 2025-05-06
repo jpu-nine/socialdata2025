@@ -11,7 +11,16 @@ Introduction
 
 # Analysis
 ## Incident + attack
-Manuel
+# Attacks per day
+This calendar visualization provides a clear, high-level view of the evolution in the frequency of terrorist attacks over time. In the early 1970s, the dataset shows relatively low daily attack counts, suggesting that terrorism was less frequent or less systematically recorded during that period. Moving into the 1980s, occasional spikes begin to appear, indicating an uptick in both the occurrence and visibility of attacks.
+
+The trend remains fairly consistent throughout the 1990s, but in the months leading up to September 11, 2001, there's a noticeable increase in daily incidents. Interestingly, following the 9/11 attacks, there is a sharp drop in the frequency of attacks, which persists until around 2006–2007. This period of reduced activity may reflect increased global counterterrorism efforts or shifts in reporting.
+
+Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a year that aligns with the height of ISIS activity and unrest in the Middle East. After 2017, the frequency of attacks begins to decline again, suggesting a potential de-escalation or success in counterterrorism efforts in some regions.
+
+![Alt text](/assets/Calendar_Plot_attacks_per_day.png)
+
+Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
 ## Victim + casualties and consequences
 Harry
 ## Weapon + perpetrator
