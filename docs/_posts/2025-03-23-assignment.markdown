@@ -18,7 +18,7 @@ The trend remains fairly consistent throughout the 1990s, but in the months lead
 
 Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a year that aligns with the height of ISIS activity and unrest in the Middle East. After 2017, the frequency of attacks begins to decline again, suggesting a potential de-escalation or success in counterterrorism efforts in some regions.
 
-![](/assets/Calendar_Plot_attacks_per_day.png)
+![Attacksc per day](/assets/Calendar_Plot_attacks_per_day.png)
 
 Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
 
@@ -29,12 +29,12 @@ Over the years, the intensity and location of attack concentrations fluctuate, b
 
 In addition to these persistent hotspots, the heatmap reveals smaller, time-bound concentrations of activity corresponding to localized conflicts. Examples include South Korea before the 2000s, Northern Ireland during the Troubles, Spain during the height of ETA activity, and Chile during the Pinochet regime. These regional spikes align with well-documented historical and political events, highlighting the value of temporal heatmapping in uncovering context-specific patterns in global terrorism trends.
 
-<iframe src="/assets/html/heatmap_globalterrorism.html" width="100%" height="500px"></iframe>
+<iframe src="assets/html/heatmap_globalterrorism.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 # Attack types adn successful rate
 Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
 
-![](/assets/Attack_types_and_success_rate.png)
+![Attack types adn successful rate](/assets/Attack_types_and_success_rate.png)
 
 # Regions involved
 This set of plots captures both the temporal and regional heterogeneity of terrorism globally. It reveals how terrorism has shifted in focus over time, with some regions becoming more volatile in recent decades. The peak year trends also suggest links to major geopolitical shifts, civil conflicts, and insurgent activities.
@@ -51,7 +51,7 @@ This set of plots captures both the temporal and regional heterogeneity of terro
 
 6. Central America & Caribbean, despite having moments of activity, never reach the same peaks as other regions, indicating more localized or less frequent terrorist incidents.
 
-![](/assets/attacks_per_region.png)
+![Regions involved](/assets/attacks_per_region.png)
 
 ## Victim + casualties and consequences
 Harry
