@@ -18,9 +18,41 @@ The trend remains fairly consistent throughout the 1990s, but in the months lead
 
 Beginning in 2012, the number of attacks rises dramatically, peaking in 2014—a year that aligns with the height of ISIS activity and unrest in the Middle East. After 2017, the frequency of attacks begins to decline again, suggesting a potential de-escalation or success in counterterrorism efforts in some regions.
 
-![Alt text](/assets/Calendar_Plot_attacks_per_day.png)
+![](/assets/Calendar_Plot_attacks_per_day.png)
 
 Overall, the calendar format effectively highlights temporal patterns and significant turning points in global terrorism trends.
+
+# Heatmap with time series
+This heatmap provides a dynamic visualization of the geographic distribution of terrorist attacks over time. One of the most striking patterns is the apparent underreporting or lack of data in the first two decades of the dataset—particularly in regions like Central Africa. Given that this region later emerges as one of the most active in terms of attacks, the early absence likely reflects data limitations rather than a true lack of activity.
+
+Over the years, the intensity and location of attack concentrations fluctuate, but several regions consistently appear as hotspots. These include parts of Europe, the Middle East, a broad belt stretching across Central Africa (from west to east), Southeast Africa, the northern edge of South America, and a swath of South Asia spanning from Afghanistan to Malaysia—including the Philippines.
+
+In addition to these persistent hotspots, the heatmap reveals smaller, time-bound concentrations of activity corresponding to localized conflicts. Examples include South Korea before the 2000s, Northern Ireland during the Troubles, Spain during the height of ETA activity, and Chile during the Pinochet regime. These regional spikes align with well-documented historical and political events, highlighting the value of temporal heatmapping in uncovering context-specific patterns in global terrorism trends.
+
+<iframe src="/assets/html/heatmap_globalterrorism.html" width="100%" height="500px"></iframe>
+
+# Attack types adn successful rate
+Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
+
+![](/assets/Attack_types_and_success_rate.png)
+
+# Regions involved
+This set of plots captures both the temporal and regional heterogeneity of terrorism globally. It reveals how terrorism has shifted in focus over time, with some regions becoming more volatile in recent decades. The peak year trends also suggest links to major geopolitical shifts, civil conflicts, and insurgent activities.
+
+1. Middle East & North Africa stands out with the highest peak of attacks, particularly during the early 2010s. The intense yellow tone in this plot highlights that the region experienced the most concentrated period of violence globally, peaking around 2014–2015.
+
+2. South Asia and Sub-Saharan Africa also show high activity, with steep increases starting in the late 2000s and sharp peaks afterward. South Asia's curve is steep and sustained, indicating prolonged conflict intensity.
+
+3. Southeast Asia, Central Asia, and South America exhibit mid-level peaks (orange to pink shading), suggesting regional but less globally dominant spikes in violence, often tied to specific insurgencies or political unrest.
+
+4. Western Europe and North America show more episodic patterns — brief but sharp spikes in attacks (e.g., IRA in the UK or domestic terrorism in the US) but overall lower sustained intensity compared to conflict-heavy regions.
+
+5. Eastern Europe and East Asia show relatively subdued activity, both in terms of frequency and intensity, reflected by darker tones and flatter curves.
+
+6. Central America & Caribbean, despite having moments of activity, never reach the same peaks as other regions, indicating more localized or less frequent terrorist incidents.
+
+![](/assets/attacks_per_region.png)
+
 ## Victim + casualties and consequences
 Harry
 ## Weapon + perpetrator
