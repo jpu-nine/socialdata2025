@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "02806 Social Data Analysis: Final Assignment - Group X"
+toc: true
 date:   2025-05-01 00:00:00 +0100
 author: Jonas Puidokas, Manuel Ibanez Andujar, Charalampos Stathopoulos
 categories: jekyll update
@@ -57,10 +58,39 @@ This set of plots captures both the temporal and regional heterogeneity of terro
 Harry
 ## Weapon + perpetrator
 ### Top Terrorist Groups
+Each bar in the chart represents a specific terrorist group, and the length of the bar corresponds to number of incidents associated with that group.
+
+- Terrorist Group: The y-axis (vertical axis) lists the names of various terrorist groups.
+- Numerical Value: The x-axis (horizontal axis) represents the number of incidents associated with each terrorist group.
+- Excluding "Unknown": Groups labeled as "Unknown" were excluded from the data, so that relevant group names are displayed.
+
+The chart shows that the Taliban has the highest number of incidents (11,982), far more than any other group in the top 20.  ISIL follows with 7,254 incidents, and Shining Path (SL) is third with 4,564. After the top three, there's a drop-off, with the remaining groups showing a more gradual decline.  The Communist Party of India - Maoist (CPI-Maoist) is among those with the fewest incidents in the top 20.
+
 ![Top Terrorist Groups]({{ site.baseurl }}/assets/images/top_terrorist_groups.png)
 ### Top Weapon Types
-### Top 20 Weapon Sub-types
+The chart illustrates the distribution of weapon types employed in the reported attacks.  Less frequent weapon types have been aggregated into an "Other" category to enhance clarity.  The chart facilitates a comparative analysis of the prevalence of different weapon categories.
+
+- Explosives represent the most substantial proportion, accounting for 49.3% of the attacks.  This indicates that explosive devices were the predominant weapon type in the dataset.
+- Firearms were the second most frequently utilized weapon, observed in 32.3% of the attacks.
+- A notable proportion, 9.6%, of attacks were carried out with Unknown weapon types.  This introduces an element of uncertainty into the analysis.
+- Less frequently utilized weapon types, such as Incendiary and Melee weapons, constitute only minor proportions of the total.
+- The “Other” category represents a negligible fraction of the attacks.
+![Top Weapon Types]({{ site.baseurl }}/assets/images/top_weapon_types.png)
+### Top Weapon Sub-types
+The chart presents a categorical breakdown of weapon sub-types and their corresponding frequencies of use in reported attacks. The x-axis represents the number of attacks, while the y-axis enumerates specific weapon sub-types. The bars are arranged horizontally, allowing for a comparative assessment of the prevalence of each sub-type.
+
+- The weapon sub-types with the highest frequency of use are "Unknown Explosive Type" and "Unknown Gun Type," with 48,807 and 40,783 attacks, respectively. The substantial number of attacks attributed to these unknown categories suggests a significant gap in data granularity, which may warrant further investigation.
+- Among known weapon sub-types, "Automatic or Semi-Automatic Rifle" is the most prevalent, with 18,176 attacks. This indicates the frequent use of this weapon category in violent incidents.
+- "Projectiles (rockets, mortars, RPGs, etc.)" and "Vehicle" also exhibit relatively high frequencies, with 12,031 and 10,849 attacks, respectively.
+- The remaining weapon sub-types, including "Other Explosive Type," "Handgun," "Grenade," and others, show a progressive decline in frequency of use.
+![Top Weapon Types]({{ site.baseurl }}/assets/images/top_weapon_subtypes.png)
 ### Word Cloud of Weapon Sub-types
+The image presents a word cloud visualization displaying various weapon sub-types. The size of each word is proportional to its frequency of occurrence within the dataset. This visualization provides a qualitative overview of the most frequently mentioned weapon sub-types.
+
+- Terms such as "rifle," "gun," and "explosive" appear prominently, suggesting their prevalence in the data.
+- Additional observations include the presence of terms like "vehicle," "projectile," and "grenade," indicating their relevance within the dataset.
+- It is important to note that the word cloud does not contain "Unknown" weapon types, as these were excluded from the analysis. This exclusion allows for a clearer focus on the distribution of known weapon sub-types.
+![Top Weapon Types]({{ site.baseurl }}/assets/images/word_cloud_of_weapon_subtypes.png)
 ### Weapon Types Over Time
 The dynamic bar chart illustrating how the usage of different weapon types varies over time. Year 1993 is filtered out, because it has no data.
 
