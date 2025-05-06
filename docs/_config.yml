@@ -30,6 +30,8 @@ github_username: puidokas
 theme: minima
 plugins:
   - jekyll-feed
+
+gems:
   - jekyll-toc
 
 # Exclude from processing.

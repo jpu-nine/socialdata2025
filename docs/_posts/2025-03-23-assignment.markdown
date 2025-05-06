@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "02806 Social Data Analysis: Final Assignment - Group X"
-toc: true
 date:   2025-05-01 00:00:00 +0100
 author: Jonas Puidokas, Manuel Ibanez Andujar, Charalampos Stathopoulos
 categories: jekyll update
