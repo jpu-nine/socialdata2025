@@ -54,7 +54,8 @@ This set of plots captures both the temporal and regional heterogeneity of terro
 ![Regions involved]({{ site.baseurl }}/assets/images/attacks_per_region.png)
 
 ## Victim + casualties and consequences
-Harry
+### Victim types
+![Regions involved]({{ site.baseurl }}/assets/images/victimbarchartharry.png)
 ## Weapon + perpetrator
 ### Top Terrorist Groups
 Each bar in the chart represents a specific terrorist group, and the length of the bar corresponds to number of incidents associated with that group.
