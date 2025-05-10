@@ -54,31 +54,48 @@ This set of plots captures both the temporal and regional heterogeneity of terro
 ![Regions involved]({{ site.baseurl }}/assets/images/attacks_per_region.png)
 
 ## Victim + casualties and consequences
+
 ### Victim types
+
 This bar chart displays the top 10 victim types most frequently affected by terrorist attacks. The data reveals that Private Citizens & Property are the most affected group, with over 50,000 recorded victims, nearly double that of the next type, Military. Other highly impacted types include Police and Goverment(Diplomatic and General).
+
 ![Victim types]({{ site.baseurl }}/assets/images/victimbarchartharry.png)
 > **Figure5:** Bar Chart of victim types.
+
 ### Consequences of attacks
+
 This chart reveals the tremendus effects of terrorist attacks, comparing the number of fatalities and injuries recorded. The data reveals that nearly 580,000 people were injured due to terrorist attacks, but more importantly, approximately 480,000 humans lifes were lost. These statistics reveal the deadly nature of these incidents, were 45,3% of the total victims lose their lifes.  
+
 ![Consequences of attacks]({{ site.baseurl }}/assets/images/consbarchartharry.png)
 > **Figure6:** Bar Chart of Consequences of attacks.
+
 ### Fatalities and Injuries by victim type
+
 These three visualizations provide a detailed look at the human cost of terrorism accros different victim types.
 
 ![Fatalities and Injuries by victim type]({{ site.baseurl }}/assets/images/scatterplotharry.png)
 > **Figure7:** Scatterplot of fatalities distribution by victim type.
+
 - The distribution of fatalities per attack, revealing Privite Citizens & Property, Military and Police as the clear outliers.
+
 ![Fatalities and Injuries by victim type]({{ site.baseurl }}/assets/images/stackedbarchartharry.png)
 > **Figure8:** Stacked Bar Chart of the top 10 victim types by casualties.
+
 - The total impact of terrorist attacks by victim types, combining fatalities and injuries. This chart further confirms that Privite Citizens are the most affected group by a wide margin.
+
 ![Fatalities and Injuries by victim type]({{ site.baseurl }}/assets/images/piechartharry.png)
 > **Figure9:** Pie Chart of top 6 victim types by fatalities.
+
 - The pie chart offers a proportional breakdown of fatalities among the top six victim types.
 Together, these graphs reveal the discomforting truth: while terrorism is often politically driven, most of the victims belong in the general population.
+
 ### Fatalities by region and victim type
+
 This heatmap provides a regional breakdown of fatalities caused by terrorist attacks, segmented by victim type. The most affected types of victims are consistently Privite Citizens, followed by Police and Military, while the most active regions are Sub-Saharan Africa, South Asia and Middle East & North Africa.
+
 ![Fatalities by region and victim type]({{ site.baseurl }}/assets/images/heatmapharry.png)
 > **Figure10:** Heatmap of fatalities by region & victim type.
+
 ## Weapon + perpetrator
 ### Top Terrorist Groups
 Each bar in the chart represents a specific terrorist group, and the length of the bar corresponds to number of incidents associated with that group.
