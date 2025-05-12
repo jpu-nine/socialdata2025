@@ -31,7 +31,7 @@ In addition to these persistent hotspots, the heatmap reveals smaller, time-boun
 
 <iframe src="assets/html/heatmap_globalterrorism.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-> **Figure 2:** Attacks per day.
+> **Figure 2:** Heatmap with time series.
 
 ### Attack types and successful rate
 Bombing/Explosion is the most common type of attack. This is not surprising given the effectivity of a bomb against humans and infrastructure plus it can be done remotely. 
@@ -132,7 +132,7 @@ The chart presents a categorical breakdown of weapon sub-types and their corresp
 - "Projectiles (rockets, mortars, RPGs, etc.)" and "Vehicle" also exhibit relatively high frequencies, with 12,031 and 10,849 attacks, respectively.
 - The remaining weapon sub-types, including "Other Explosive Type," "Handgun," "Grenade," and others, show a progressive decline in frequency of use.
 ![Top Weapon Subtypes]({{ site.baseurl }}/assets/images/top_weapon_subtypes.png)
-> **Figure 12:** Top Weapon Subtypes.
+> **Figure 13:** Top Weapon Subtypes.
 
 ### Word Cloud of Weapon Sub-types
 The image presents a word cloud visualization displaying various weapon sub-types. The size of each word is proportional to its frequency of occurrence within the dataset. This visualization provides a qualitative overview of the most frequently mentioned weapon sub-types.
@@ -141,7 +141,7 @@ The image presents a word cloud visualization displaying various weapon sub-type
 - Additional observations include the presence of terms like "vehicle," "projectile," and "grenade," indicating their relevance within the dataset.
 - It is important to note that the word cloud does not contain "Unknown" weapon types, as these were excluded from the analysis. This exclusion allows for a clearer focus on the distribution of known weapon sub-types.
 ![Word Cloud of Weapon Types]({{ site.baseurl }}/assets/images/word_cloud_of_weapon_subtypes.png)
-> **Figure 13:** Word Cloud of Weapon Types.
+> **Figure 14:** Word Cloud of Weapon Types.
 
 ### Weapon Types Over Time
 The dynamic bar chart illustrating how the usage of different weapon types varies over time. Year 1993 is filtered out, because it has no data.
@@ -152,7 +152,7 @@ The dynamic bar chart illustrating how the usage of different weapon types varie
 A notable trend observed throughout the years is the prevalence of Explosives, which consistently shows a high number of incidents, making it the most frequently used weapon type. Firearms typically follow as the second most common, while Incendiary weapons and, to a lesser extent, Melee weapons also appear with some regularity. Other weapon types such as Chemical, Sabotage Equipment, Fake Weapons, Radiological, Biological, and Other tend to be used much less frequently across the time period represented in the data.
 <iframe src="assets/html/weapon_types_over_time.html" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-> **Figure 14:** Weapon Types Over Time.
+> **Figure 15:** Weapon Types Over Time.
 
 ### Top Perpetrator Groups Over Time
 
@@ -165,7 +165,7 @@ This graph illustrates how the number of attacks attributed to the top 10 perpet
 The graph shows how the activity of different perpetrator groups has evolved over time. For example, you can observe the rise and fall of attacks by groups like the Irish Republican Army (IRA) and the Kurdistan Workers' Party (PKK) over the decades. Additionally, the graph highlights the emergence and surge in activity of groups like ISIL in more recent years. The Taliban, however, shows a noticeable presence throughout the entire period with varying levels of activity.
 <iframe src="assets/html/top_groups_over_time.html" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-> **Figure 15:** Top Terrorist Groups Over Time.
+> **Figure 16:** Top Terrorist Groups Over Time.
 
 # Conclusion
 Conclusion
