@@ -171,4 +171,8 @@ The graph shows how the activity of different perpetrator groups has evolved ove
 Conclusion
 
 # References
-References
+
+1. [HRW: *Explosive Weapons in Populated Areas*](https://www.hrw.org/topic/arms/explosive-weapons-populated-areas)
+2. [ocha: *Explosive Weapons in Populated Areas*](https://www.unocha.org/explosive-weapons-populated-areas)
+3. [TheGuardian: *Civilian casualties of explosive weapons at highest level in more than a decade*](https://www.theguardian.com/world/2025/jan/14/civilian-casualties-of-explosive-weapons-at-highest-level-in-more-than-a-decade)
+4. [INEW: *Implementing the political declaration on explosive weapons in populated areas: questions and answers*](https://www.inew.org/wp-content/uploads/2023/10/INEW_Implementation_QA_.pdf)
