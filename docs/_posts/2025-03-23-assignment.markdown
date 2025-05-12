@@ -168,11 +168,12 @@ The graph shows how the activity of different perpetrator groups has evolved ove
 > **Figure 16:** Top Terrorist Groups Over Time.
 
 # Conclusion
-Conclusion
+Terrorist attacks are a worldwide phenomenon, usually related to political causes, yet the most afflicted type of victims, by a large margin, is private citizens. Even though the main targets are governments and political authorities, attacks overwhelmingly impact civilians, as proved undeniably by the data. The main reason for the large number of these unfortunate casualties lies within the categories of weapon used by terrorists. Almost half of all terrorist attacks are performed using explosives like IEDs and airstrikes, causing widespread harm due to their indiscriminate nature.[1][2][3][4]
 
 # References
 
 1. [HRW: *Explosive Weapons in Populated Areas*](https://www.hrw.org/topic/arms/explosive-weapons-populated-areas)
-2. [ocha: *Explosive Weapons in Populated Areas*](https://www.unocha.org/explosive-weapons-populated-areas)
+2. [OCHA: *Explosive Weapons in Populated Areas*](https://www.unocha.org/explosive-weapons-populated-areas)
 3. [TheGuardian: *Civilian casualties of explosive weapons at highest level in more than a decade*](https://www.theguardian.com/world/2025/jan/14/civilian-casualties-of-explosive-weapons-at-highest-level-in-more-than-a-decade)
 4. [INEW: *Implementing the political declaration on explosive weapons in populated areas: questions and answers*](https://www.inew.org/wp-content/uploads/2023/10/INEW_Implementation_QA_.pdf)
+5. [*Global Terrorism Database (GTD)*](https://www.start.umd.edu/gtd-download)
