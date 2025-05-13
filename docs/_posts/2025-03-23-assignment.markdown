@@ -7,9 +7,22 @@ categories: jekyll update
 ---
 
 # Introduction
-Introduction
+For this project, we chose to work with the Global Terrorism Database (GTD) — one of the most comprehensive open-source datasets on terrorist activity worldwide. It contains detailed information on more than 200,000 terrorist incidents from 1970 to 2020, including data on the type of attack, location, casualties, weapons, perpetrators, and other critical attributes.
+
+We selected this dataset for two reasons: first, terrorism is a topic with deep geopolitical, social, and humanitarian impact, and visualizing its trends helps build understanding of global and regional conflict dynamics. Second, the richness of the GTD makes it suitable for diverse forms of analysis and storytelling, including both quantitative trends and human-centered consequences.
+
+Our goal was to design a visually-driven experience that allows users to:
+- Observe temporal and regional trends in terrorism,
+- Understand the tactics and impact of attacks over time,
+- Explore connections between perpetrators, weapons, and victims.
+
+We divided the project into three complementary perspectives:
+- Incident and Attack (structure, type, and evolution of events)
+- Victims and Consequences (casualties and human cost)
+- Weapons and Perpetrators (means and motives of terrorism)
 
 # Analysis
+This section presents the analysis of data.
 ## Incident + attack
 ### Attacks per day
 This calendar visualization provides a clear, high-level view of the evolution in the frequency of terrorist attacks over time. In the early 1970s, the dataset shows relatively low daily attack counts, suggesting that terrorism was less frequent or less systematically recorded during that period. Moving into the 1980s, occasional spikes begin to appear, indicating an uptick in both the occurrence and visibility of attacks.
