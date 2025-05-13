@@ -1,5 +1,6 @@
-# Website
-Accessible [here](https://jpu-nine.github.io/socialdata2025/).
+# Links
+- [Website](https://jpu-nine.github.io/socialdata2025/)
+- [Notebook](https://github.com/jpu-nine/socialdata2025/blob/main/notebooks/Final_notebook.ipynb)
 
 # Contribution
 
